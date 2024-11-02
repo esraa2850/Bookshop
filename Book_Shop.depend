@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1730546530 source:c:\users\ycc\desktop\second_electric\bookshop\book_shop\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<memory>
+
+1730546437 source:c:\users\ycc\desktop\second_electric\bookshop\book_shop\data.cpp
+	"Data.h"
+	<fstream>
+	<sstream>
+
+1730546645 c:\users\ycc\desktop\second_electric\bookshop\book_shop\data.h
+	<fstream>
+	<sstream>
+	<iostream>
+	<vector>
+	<string>
+	<memory>
+

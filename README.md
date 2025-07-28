@@ -1,5 +1,5 @@
 # Bookshop
-small Project whit C++ whitout oop
+small Project whit C++ 
 # using struct and vector 
 struct Book {
     string title;
